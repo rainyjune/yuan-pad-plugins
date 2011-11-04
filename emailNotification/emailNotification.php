@@ -1,4 +1,8 @@
 <?php
+/**
+ * @author rainyjune <rainyjune@live.cn>
+ * @version $Id$
+ */
 class emailNotification
 {
 	public static function getConfigs()
